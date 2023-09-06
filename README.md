@@ -32,6 +32,6 @@ Hi, I'm Dhiraj Tawar, a highly motivated DevOps engineer with over 2 years of ex
 
 ## Contact
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dhiraj-tawar-b9a387117/) for collaboration, job opportunities, or discussions about DevOps and cloud technologies. You can also visit my [portfolio](https://yourportfolio.com) for more details.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/dhiraj-tawar-b9a387117/) for collaboration, job opportunities, or discussions about DevOps and cloud technologies.
 
 Let's connect and drive efficiency, collaboration, and continuous improvement together!
